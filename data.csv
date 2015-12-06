@@ -1,15 +1,15 @@
-Search Term: Cereal
+Search Term: Cereal, , , , 
 Brand,Cereal Name,Rating,Search Ranking,Num of Reviews
-Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 26.6 oz",4.829,1,205
+Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 26.6 oz",4.826,1,207
 Kellogg's Frosted Flakes,"Kellogg's Frosted Flakes Cereal, 33 oz",4.709,2,117
 Kellogg's,"Kellogg's Rice Krispies Cereal, 24 oz",4.867,9,60
 Kellogg's,"Kellogg's Apple Jacks Cereal, 21.7 oz",4.654,13,52
 Kellogg's Froot Loops,"Kellogg's Froot Loops Cereal, 26 oz",4.778,14,63
-Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 12.25 oz",4.829,16,205
+Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 12.25 oz",4.826,16,207
 Kellogg's,"Kellogg's Cracklin Oat Bran Cereal, 17 Oz",4.737,18,19
 Kellogg's,"Kellogg's Corn Flakes Cereal, 24 oz",4.674,21,46
 Cheerios,"Multi Grain Cheerios Gluten Free Cereal, 18 oz",4.813,22,16
-Kellogg's Special K,"Kellogg's Special K Chocolatey Delight Cereal, 16.5 oz",4.884,23,45
+Kellogg's Special K,"Kellogg's Special K Chocolatey Delight Cereal, 16.5 oz",4.884,23,46
 Post,"Post Selects Great Grains Raisins Dates & Pecans Cereal, 16 oz",4.936,24,47
 Post,"Post Honey-Comb Cereal, 16 oz",5.0,29,12
 Kellogg's,"Kellogg's Froot Loops Cereal, 21.7 oz",4.778,33,63
@@ -22,7 +22,7 @@ Kashi,"Kashi Heart To Heart Oak Flakes & Wild Blueberry Clusters Cereal, 13.4 oz
 Kellogg's Special K,"Kellogg's Special K Cinnamon Pecan Cereal, 12.1 oz",4.819,60,94
 Cheerios,"Cheerios Protein Cinnamon Almond Cereal, 14.1 oz",4.636,64,22
 Cheerios,"Cheerios Fruity Cereal, 12 oz",4.448,69,29
-Kellogg's Frosted Flakes,"Kellogg's Frosted Flakes Cereal, 10.5 oz",4.694,70,117
+Kellogg's Frosted Flakes,"Kellogg's Frosted Flakes Cereal, 10.5 oz",4.709,70,117
 Post,"Great Grains Cranberry Almond Crunch Cereal, 14 oz",4.714,72,21
 Kellogg's Special K,"Kellogg's Special K Vanilla Almond Cereal, 16.3 oz",4.963,73,27
 Post,"Post Shredded Wheat Wheat 'N Bran Spoon Size Cereal, 18 oz",4.861,76,36
@@ -34,18 +34,18 @@ Post,"Raisin Bran Cereal, 25 oz",4.8,91,25
 Post,"Post Selects Banana Nut Crunch Cereal, 15.5 oz",4.476,92,21
 Honey Nut Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 21.6 oz",4.839,97,186
 Kellogg's,"Kellogg's Rice Krispies Cereal, 18 oz",4.906,101,32
-Cheerios,"Frosted Cheerios Gluten Free Cereal, 12 oz",5.0,105,10
+Cheerios,"Frosted Cheerios Gluten Free Cereal, 12 oz",4.818,105,11
 Kashi,"Kashi Autumn Wheat Cereal, 16.3 oz",4.0,115,8
 Kashi,"Kashi Island Vanilla Cereal, 16.3 oz",4.909,116,11
 Kellogg's Special K,"Kellogg's Special K Red Berries Cereal, 14.7 oz",4.647,121,86
 Kashi Golean,"Kashi GoLean Cereal, 13.1 oz",4.875,122,16
 Kellogg's,"Kellogg's Marvel Avengers Age of Ultron Cereal, 8.4 oz",3.0,123,1
 Kellogg's,"Kellogg's Cinnabon Cereal, 9 oz",4.955,129,22
-Kellogg's,"Kellogg's Crispix Cereal, 12 oz",4.783,130,23
+Kellogg's,"Kellogg's Crispix Cereal, 12 oz",4.783,130,24
 Kellogg's Special K,"Kellogg's Special K Protein Cereal, 12.5 oz",4.759,132,112
 Post,"Post Golden Crisp Cereal, 14.75 oz",5.0,135,6
 Cheerios,"Honey Nut Cheerios Medley Crunch Cereal, 22.5 oz",4.375,138,40
-Cheerios,"Cheerios Gluten Free Cereal, 12 oz",4.744,141,39
+Cheerios,"Cheerios Gluten Free Cereal, 12 oz",4.75,141,40
 Post,"Post Shredded Wheat Honey Nut Spoon Size Cereal, 20 oz",5.0,142,11
 Kellogg's Special K,"Kellogg's Special K Fruit & Yogurt Cereal, 16.6 oz",4.846,147,13
 Post,"Honey Bunches Of Oats Cereal With Almonds, 18 oz",4.8,148,15
@@ -90,14 +90,14 @@ Kellogg's Special K,"Kellogg's Special K Fruit & Yogurt Cereal, 12.5 oz",4.775,2
 Post,"Cocoa Pebbles Cereal, 11 oz",5.0,251,2
 Kashi,"Kashi Organic Promise Sprouted Grains Cereal, 9.5 oz",5.0,253,1
 Kellogg's,"Kellogg's Corn Flakes Cereal, 18 oz",4.674,254,46
-Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 17 oz",4.829,257,205
+Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 17 oz",4.826,257,207
 Kellogg's,"Kellogg's Froot Loops Marshmallow Sweetened Multi-Grain Cereal, 12.6 Oz",5.0,258,3
 Kellogg's Frosted Flakes,"Kellogg's Frosted Flakes Chocolate Cereal, 14.7 oz",4.75,261,4
 Kellogg's Special K,"Kellogg's Special K Vanilla Almond Cereal, 12.4 oz",4.872,266,86
 Kellogg's,"Kellogg's Rice Krispies Cereal, 12 oz",4.867,269,60
 Kellogg's,"Kellogg's Special K Chocolatey Strawberry Cereal, 14.5 oz",4.712,271,73
 Kellogg's,"Kellogg's Apple Jacks Cereal, 12.2 oz",4.654,286,52
-Kellogg's,"Kellogg's Raisin Bran Cereal, 14.3 oz",4.625,287,8
+Kellogg's,"Kellogg's Raisin Bran Cereal, 14.3 oz",4.667,287,9
 Kellogg's Frosted Flakes,"Kellogg's Frosted Flakes Cereal, 19 oz",4.694,288,117
 Kellogg's,"Kellogg's Apple Jacks Cereal, 17 oz",4.654,294,52
 Kellogg's,"Kellogg's Assorted Cereal Fun Pack, 8 ct",4.909,295,11
@@ -106,7 +106,7 @@ Cheerios,"Cheerios + Ancient Grains Cereal, 11.6 oz",4.421,312,38
 Kellogg's Corn Pops,"Kellogg's Corn Pops Cereal, 12.5 oz",4.677,314,31
 Kellogg's,"Kellogg's Good Food To Go! Frosted Flakes Cereal Cups, 6ct",5.0,323,3
 Kellogg's Corn Pops,"Kellogg's Corn Pops Cereal, 17.2 oz",4.677,331,31
-Kellogg's,"Kellogg's Good Food To Go! Raisin Bran Crunch Cereal Cups, 6ct",5.0,341,1
+Kellogg's,"Breakfast Cereal, Raisin Bran Crunch, Single-Serve 2.8oz Cup, 6/Box",5.0,341,1
 Kellogg's,"Kellogg's Special K Apple Cinnamon Crunch Cereal, 12.4 oz",4.0,351,1
 Kellogg's,"Kellogg's Krave Chocolate Cereal, 11.4 oz",4.667,376,9
 Kellogg's,"Kellogg's Assorted Cereal Variety Pack, 10 count, 9.63 oz",0,382,0
@@ -151,23 +151,23 @@ Kashi,"Kashi Golden Maple Brown Instant Oatmeal, 1.5 oz, 8ct  (Pack of 6)",0,769
 Kashi,"Kashi Organic Promise Cocoa Coconut with Kamut Khorasan Wheat Granola, 11 oz",0,773,0
 Kashi,"Kashi Heart To Heart Golden Brown Maple Instant Oatmeal, 12.1 oz",0,774,0
 Kashi,"Kashi Organic Promise Cranberry, Spelt and Flax Granola, 11 oz",0,814,0
- 
-Search Term: Cold Cereal
+ , , , , 
+Search Term: Cold Cereal, , , , 
 Brand,Cereal Name,Rating,Search Ranking,Num of Reviews
 Kellogg's,"Kellogg's Apple Jacks Cereal, 21.7 oz",4.654,3,52
 Cheerios,"Cheerios Gluten Free Cereal, 18 oz",4.839,4,186
 Kellogg's,"Kellogg's Rice Krispies Cereal, 24 oz",4.867,5,60
 Kellogg's,"Kellogg's Froot Loops Cereal, 21.7 oz",4.778,6,63
-Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 26.6 oz",4.829,7,205
-Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 12.25 oz",4.829,9,205
+Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 26.6 oz",4.826,7,207
+Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 12.25 oz",4.826,9,207
 Kellogg's Frosted Flakes,"Kellogg's Frosted Flakes Cereal, 33 oz",4.709,12,117
 Post,"Post Shredded Wheat Original Cereal, 15 oz",5.0,13,21
-Kellogg's Special K,"Kellogg's Special K Chocolatey Delight Cereal, 16.5 oz",4.884,16,45
+Kellogg's Special K,"Kellogg's Special K Chocolatey Delight Cereal, 16.5 oz",4.884,16,46
 Kellogg's,"Kellogg's Corn Flakes Cereal, 24 oz",4.674,22,46
 Post,"Post Shredded Wheat Wheat 'N Bran Spoon Size Cereal, 18 oz",4.861,26,36
 Post,"Raisin Bran Cereal, 25 oz",4.8,28,25
 Cheerios,"Cheerios Protein Cinnamon Almond Cereal, 14.1 oz",4.636,30,22
-Kellogg's Frosted Flakes,"Kellogg's Frosted Flakes Cereal, 10.5 oz",4.694,31,117
+Kellogg's Frosted Flakes,"Kellogg's Frosted Flakes Cereal, 10.5 oz",4.709,31,117
 Post,"Post Selects Great Grains Raisins Dates & Pecans Cereal, 16 oz",4.936,32,47
 Post,"Post Honey-Comb Cereal, 16 oz",5.0,34,12
 Cheerios,"Multi Grain Cheerios Gluten Free Cereal, 18 oz",4.813,36,16
@@ -176,11 +176,11 @@ Honey Nut Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 21.6 oz",4.839,39,186
 Kashi,"Kashi GoLean Crunch! Cereal, 21.3 oz",0,40,0
 Kashi,"Kashi Heart To Heart Oak Flakes & Wild Blueberry Clusters Cereal, 13.4 oz",3.875,42,8
 Cheerios,"Cheerios Fruity Cereal, 12 oz",4.448,47,29
-Kellogg's,"Kellogg's Crispix Cereal, 12 oz",4.783,48,23
+Kellogg's,"Kellogg's Crispix Cereal, 12 oz",4.783,48,24
 Kellogg's Special K,"Kellogg's Special K Cinnamon Pecan Cereal, 12.1 oz",4.819,49,94
 Kellogg's Frosted Flakes,"Kellogg's Frosted Flakes Cereal, 26.8 oz",4.709,53,117
 Kellogg's Froot Loops,"Kellogg's Froot Loops Cereal, 26 oz",4.778,57,63
-Cheerios,"Frosted Cheerios Gluten Free Cereal, 12 oz",5.0,64,10
+Cheerios,"Frosted Cheerios Gluten Free Cereal, 12 oz",4.818,64,11
 Kellogg's,"Kellogg's Cinnabon Cereal, 9 oz",4.955,67,22
 Kellogg's Crunchy Nut,"Kellogg's Crunchy Nut Golden Honey Nut Flakes Cereal, 13.2 oz",4.844,71,32
 Kellogg's Special K,"Kellogg's Special K Protein Cereal, 12.5 oz",4.759,84,112
@@ -205,7 +205,7 @@ Kashi,"Kashi Organic Promise Sprouted Grains Cereal, 9.5 oz",5.0,140,1
 Kellogg's Special K,"Kellogg's Special K Oats & Honey Cereal, 16.5 oz",4.643,145,28
 Kellogg's,"Kellogg's Corn Pops Cereal, 21.4 oz",4.677,152,31
 Kellogg's,"Kellogg's Cracklin Oat Bran Cereal, 17 Oz",4.737,156,19
-Cheerios,"Cheerios Gluten Free Cereal, 12 oz",4.744,160,39
+Cheerios,"Cheerios Gluten Free Cereal, 12 oz",4.75,160,40
 Post,"Great Grains Cranberry Almond Crunch Cereal, 14 oz",4.714,165,21
 Cheerios,"Honey Nut Cheerios Medley Crunch Cereal, 22.5 oz",4.375,166,40
 Post,"Post Shredded Wheat Honey Nut Spoon Size Cereal, 20 oz",5.0,167,11
@@ -233,7 +233,7 @@ Cheerios,"Honey Nut Cheerios Medley Crunch Cereal, 13.1 oz",4.375,236,40
 Kellogg's Special K,"Kellogg's Special K Fruit & Yogurt Cereal, 12.5 oz",4.775,239,80
 Cheerios,"Cheerios Gluten Free Cereal, 8.9 oz",4.733,240,45
 Post,"Cocoa Pebbles Cereal, 11 oz",5.0,242,2
-Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 17 oz",4.829,243,205
+Cheerios,"Honey Nut Cheerios Gluten Free Cereal, 17 oz",4.826,243,207
 Cheerios,"Multi Grain Cheerios Gluten Free Cereal, 9 oz",4.833,244,18
 Kellogg's Frosted Flakes,"Kellogg's Frosted Flakes Chocolate Cereal, 14.7 oz",4.75,247,4
 Kellogg's Froot Loops,"Kellogg's Froot Loops Bloopers Cereal, 9.3 oz",4.857,249,7
@@ -241,7 +241,7 @@ Kellogg's Special K,"Kellogg's Special K Vanilla Almond Cereal, 12.4 oz",4.872,2
 Kellogg's,"Kellogg's Special K Chocolatey Strawberry Cereal, 14.5 oz",4.712,255,73
 Kellogg's,"Kellogg's Assorted Cereal Fun Pack, 8 ct",4.909,262,11
 Kellogg's,"Kellogg's Honey Smacks Cereal, 15.3 oz",4.357,263,14
-Kellogg's,"Kellogg's Raisin Bran Cereal, 14.3 oz",4.625,270,8
+Kellogg's,"Kellogg's Raisin Bran Cereal, 14.3 oz",4.667,270,9
 Kellogg's,"Kellogg's Frosted Mini-Wheats Pumpkin Spice Cereal, 15.5 oz",0,275,0
 Kellogg's,"Kellogg's Cocoa Krispies Cereal, 20.5 oz",4.667,280,3
 Cheerios,"Cheerios + Ancient Grains Cereal, 11.6 oz",4.421,281,38
@@ -250,7 +250,7 @@ Kellogg's,"Kellogg's Frosted Flakes with Energy Clusters Cereal, 12.1 oz",0,297,
 Kellogg's Corn Pops,"Kellogg's Corn Pops Cereal, 17.2 oz",4.677,298,31
 Kellogg's Origins,"Kellogg's Origins Ancient Grains Granola Cranberry Almond with Pumpkin Seeds Cereal, 12.5 oz",0,299,0
 Kellogg's Origins,"Kellogg's Origins Fruit & Seed Muesli Raisin Apricot Cranberry with Pumpkin Seeds Cereal, 14.1 oz",0,300,0
-Kellogg's,"Kellogg's Good Food To Go! Raisin Bran Crunch Cereal Cups, 6ct",5.0,304,1
+Kellogg's,"Breakfast Cereal, Raisin Bran Crunch, Single-Serve 2.8oz Cup, 6/Box",5.0,304,1
 Kellogg's Origins,"Kellogg's Origins Ancient Grains Granola Raisin Apple Cereal, 12.5 oz",0,309,0
 Kellogg's,"Kellogg's Apple Jacks Cereal, 12.2 oz",4.654,312,52
 Kellogg's,"Kellogg's Apple Jacks Cereal, 17 oz",4.654,315,52
@@ -280,10 +280,10 @@ Kellogg's,"Kellogg's Pop-Tarts Frosted Blue Raspberry Toaster Pastries, 8 count"
 Kashi,"Kashi Organic Promise Cocoa Coconut with Kamut Khorasan Wheat Granola, 11 oz",0,496,0
 Kashi,"Kashi Organic Promise Cranberry, Spelt and Flax Granola, 11 oz",0,503,0
 Kashi,"Kashi 7 Whole Grain Honey Puffs, 9.3 oz, (Pack of 10)",0,511,0
- 
+ , , , , 
 Brand,Num of Searches: Cereal,Top 3: Cereal,Num of Searches: Cold Cereal,Top 3: Cold Cereal
 Cheerios,23,1,22,0
 Kashi,23,0,19,0
 Kellogg's,81,1,68,1
 Post,24,0,17,0
-"Total num of searches, cereal:",975,"Total num of searches, cold cereal:",675
+"Total num of searches, cereal:",975,"Total num of searches, cold cereal:",675, 

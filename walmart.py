@@ -11,16 +11,16 @@ def main():
     #create csv file
     with open('data.csv', 'w', newline='') as csvfile:
         csvwrite = csv.writer(csvfile, dialect='excel')
-        csvwrite.writerow(['Search Term: Cereal'])
+        csvwrite.writerow(['Search Term: Cereal'] + [' ']*4)
         csvwrite.writerow(['Brand'] + ['Cereal Name'] 
                           + ['Rating'] + ['Search Ranking']
                           + ['Num of Reviews']) 
 
-        apiKey = 'gaxg49q2jz42zm839agpjqjs' #provided API Key
-
+        apiKey = 'kp57gxkz4eh8q9kqn72cf5am' #provided API Key
+        
         #Create list to hold info about each brand
-        #brand = [num of searches: cereal, top 3: cereal, num of searches: cold cereal, 
-        #         top 3: cold cereal]
+        #brand = [num of searches: cereal, top 3: cereal, num of 
+        #         searches: cold cereal, top 3: cold cereal]
         ch_list = [0,0,0,0]
         ka_list = [0,0,0,0]
         ke_list = [0,0,0,0]
@@ -97,8 +97,8 @@ def main():
             start += 25
 
         #Gather data of "cold cereal" search term
-        csvwrite.writerow([' '])
-        csvwrite.writerow(['Search Term: Cold Cereal'])
+        csvwrite.writerow([' ']*5)
+        csvwrite.writerow(['Search Term: Cold Cereal'] + [' ']*4)
         csvwrite.writerow(['Brand'] + ['Cereal Name'] 
                           + ['Rating'] + ['Search Ranking']
                           + ['Num of Reviews']) 
@@ -174,7 +174,7 @@ def main():
             start += 25
 
         #write data about brands to csv file
-        csvwrite.writerow([' '])
+        csvwrite.writerow([' ']*5)
         csvwrite.writerow(['Brand'] + ['Num of Searches: Cereal'] + ['Top 3: Cereal']
         		  + ['Num of Searches: Cold Cereal'] + ['Top 3: Cold Cereal'])
         csvwrite.writerow(['Cheerios'] + [ch_list[0]] + [ch_list[1]] + [ch_list[2]]
@@ -186,7 +186,8 @@ def main():
         csvwrite.writerow(['Post'] + [po_list[0]] + [po_list[1]] + [po_list[2]]
         		  + [po_list[3]])
         csvwrite.writerow(['Total num of searches, cereal:'] + [search_num-1]
-                          + ['Total num of searches, cold cereal:'] + [search_num2-1])
+                          + ['Total num of searches, cold cereal:'] + [search_num2-1] 
+                          + [' '])
 
 
 main()
